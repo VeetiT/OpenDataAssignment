@@ -1,9 +1,17 @@
 body {
     font-family: Tahoma, sans-serif;
     background-color: grey;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
 }
 
 img {
     width: 200px;
     height: auto;
+}
+
+h1, h2, h3, p {
+    color: white;
 }
