@@ -8,7 +8,6 @@ function App() {
   return (
     <div>
       <Header image={image}/>
-      <PokemonOverview/>
     </div>
   )
 }
