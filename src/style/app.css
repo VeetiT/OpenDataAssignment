@@ -15,3 +15,14 @@ img {
 h1, h2, h3, p {
     color: white;
 }
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: white; 
+    margin-top: 8px; 
+    padding: 5px; 
+}
